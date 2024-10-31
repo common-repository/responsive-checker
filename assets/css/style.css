@@ -1,0 +1,35 @@
+.frame-responsive{
+    height: 480px;
+    width: 320px;
+}
+.responsive-checker-menu{
+    display: inline-block;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 10px;
+}
+.responsive-checker-title{
+    display: inline-block;
+    margin-right: 20px;
+    padding : 5px;
+}
+.checkvalue{
+    display: inline;
+    margin-right: 20px;
+}
+.responsive-checker-rotation{
+    display: inline-block;
+    width: 30px;
+    height:30px;
+    position: absolute;
+    top: 50px;
+}
+.responsive-checker-rotation a{
+    text-decoration: none;
+    outline: 0px;
+    box-shadow: none;
+}
+.responsive-checker-rotation img{
+    width: 100%;
+    height: 100%;
+}
